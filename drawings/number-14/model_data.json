@@ -1,0 +1,233 @@
+{
+  "sheets": [
+    {
+      "exercise": "1",
+      "title": "Flat sheet component",
+      "scale": "1:1",
+      "file": "Exercise_1_Variant_14"
+    },
+    {
+      "exercise": "2",
+      "title": "Rotational component half section",
+      "scale": "1:1",
+      "file": "Exercise_2_Variant_14"
+    },
+    {
+      "exercise": "4a",
+      "title": "Axisymmetric component",
+      "scale": "1:1",
+      "file": "Exercise_4a_Variant_14"
+    },
+    {
+      "exercise": "2a",
+      "title": "Pyramid cut by perpendicular plane",
+      "scale": "1:1",
+      "file": "Exercise_2a_Variant_14"
+    },
+    {
+      "exercise": "3a",
+      "title": "Intersection of two cylinders",
+      "scale": "1:1",
+      "file": "Exercise_3a_Variant_14"
+    },
+    {
+      "exercise": "4",
+      "title": "Threaded connection diagram F",
+      "scale": "2:1",
+      "file": "Exercise_4_Variant_14"
+    },
+    {
+      "exercise": "5a",
+      "title": "Housing with full section",
+      "scale": "1:1",
+      "file": "Exercise_5a_Variant_14"
+    },
+    {
+      "exercise": "6a",
+      "title": "Housing with section and thread",
+      "scale": "1:1",
+      "file": "Exercise_6a_Variant_14"
+    },
+    {
+      "exercise": "5",
+      "title": "Working drawing of stepped shaft",
+      "scale": "1:1",
+      "file": "Exercise_5_Variant_14"
+    },
+    {
+      "exercise": "3",
+      "title": "Housing bracket orthographic views",
+      "scale": "1:1",
+      "file": "Exercise_3_Variant_14"
+    },
+    {
+      "exercise": "1a",
+      "title": "Six view orthographic projection",
+      "scale": "1:1",
+      "file": "Exercise_1a_Variant_14"
+    },
+    {
+      "exercise": "6",
+      "title": "Shaft bearing unit assembly",
+      "scale": "1:1",
+      "file": "Exercise_6_Variant_14"
+    }
+  ],
+  "pyramid_section_xyz": [
+    [
+      -37.7594834029776,
+      -18.836896146699793,
+      0.0
+    ],
+    [
+      6.257166547855485,
+      -21.69151069923235,
+      52.457000712867085
+    ],
+    [
+      15.911645931516913,
+      7.232566332507687,
+      63.962761202972324
+    ],
+    [
+      -27.764985191007273,
+      36.441543063197045,
+      11.91097915029205
+    ],
+    [
+      -37.7594834029776,
+      29.479383906570426,
+      0.0
+    ]
+  ],
+  "sphere_points": [
+    [
+      41,
+      [
+        9.0,
+        -37.33210345537637,
+        14.363636433615127
+      ]
+    ],
+    [
+      41,
+      [
+        9.0,
+        37.33210345537637,
+        14.363636433615127
+      ]
+    ],
+    [
+      44,
+      [
+        18.33030277982336,
+        -35.81040730743945,
+        17.82174874907867
+      ]
+    ],
+    [
+      44,
+      [
+        18.33030277982336,
+        35.81040730743945,
+        17.82174874907867
+      ]
+    ],
+    [
+      48,
+      [
+        26.5329983228432,
+        -33.255195345439695,
+        22.228179919567097
+      ]
+    ],
+    [
+      48,
+      [
+        26.5329983228432,
+        33.255195345439695,
+        22.228179919567097
+      ]
+    ]
+  ],
+  "shaft_ex5": [
+    [
+      "L2",
+      65,
+      28,
+      28
+    ],
+    [
+      "SH",
+      80,
+      7,
+      7
+    ],
+    [
+      "R2",
+      85,
+      70,
+      70
+    ],
+    [
+      "C2",
+      80,
+      95,
+      35
+    ],
+    [
+      "L1",
+      75,
+      33,
+      33
+    ],
+    [
+      "C1",
+      65,
+      27,
+      27
+    ],
+    [
+      "R1",
+      60,
+      60,
+      60
+    ]
+  ],
+  "assembly_ex6": [
+    [
+      0,
+      22,
+      50
+    ],
+    [
+      22,
+      30,
+      60
+    ],
+    [
+      30,
+      91,
+      55
+    ],
+    [
+      91,
+      134,
+      45
+    ],
+    [
+      134,
+      169,
+      40
+    ],
+    [
+      169,
+      201,
+      35
+    ]
+  ],
+  "provisional": [
+    "All unspecified detail dimensions proposed",
+    "Exercise1a reconstruction requires confirmation"
+  ]
+}

@@ -1,0 +1,22 @@
+# Local inspection, browser profiles, previews, and working artifacts
+/tmp/
+/output/
+/Number_14_Drawings/
+/drawings/number-14/qa/
+/docs/.preview/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini

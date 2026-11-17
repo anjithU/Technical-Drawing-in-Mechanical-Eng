@@ -1,0 +1,230 @@
+{
+  "checks": [
+    {
+      "check": "Twelve exercise sheets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Shaft actual total320",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Shaft displayed total260",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Assembly shaft total201",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "L1 groove end allowance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pyramid section residual",
+      "passed": true,
+      "detail": "7.105427357601002e-15"
+    },
+    {
+      "check": "Sphere points satisfy both cylinders and sphere",
+      "passed": true,
+      "detail": "4.547473508864641e-13"
+    },
+    {
+      "check": "A3 page 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 1a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 1a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 1a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 2a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 2a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 2a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 3a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 3a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 3a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 5a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 5a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 5a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "A3 page 6a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Variant title 6a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No missing-glyph box 6a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Notes page count",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "open_items": [
+    "Exercise1a reconstruction unverified",
+    "Instructor approval of proposed dimensions and annotations pending",
+    "Student name and initials pending"
+  ],
+  "visual_review": "All 12 drawing pages and all 5 notes pages visually inspected. Exercise1a remains provisional; instructor agreement required for proposed values."
+}
